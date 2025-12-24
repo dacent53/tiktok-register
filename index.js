@@ -1,5 +1,6 @@
 const TikTok = require("./tiktok")
 
+	
 ;(async () => {
 	const client = new TikTok()
 

@@ -1,3 +1,4 @@
+
 {
 	"name": "tiktok-register",
 	"version": "1.0.0",
@@ -17,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/SebastienWae/tiktok-register.git"
+		"url": "git+https://github.com/alethino/tiktok-register.git"
 	},
 	"keywords": [
 		"tiktok", "x-gorgon", "gorgon"
@@ -25,7 +26,7 @@
 	"author": "Clicker",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/SebastienWae/tiktok-register/issues"
+		"url": "https://github.com/alethino"
 	},
-	"homepage": "https://github.com/SebastienWae/tiktok-register#readme"
+	"homepage": "https://github.com/alethino"
 }

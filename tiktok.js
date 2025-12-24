@@ -7,6 +7,7 @@ const xorCrypt = require("xor-crypt")
 const formurlencoded = require("form-urlencoded").default
 const cv = require("opencv4nodejs")
 
+
 const TikTok = function() {
 	this.session = {}
 	this.device = {}
